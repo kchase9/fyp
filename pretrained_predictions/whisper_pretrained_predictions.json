@@ -696,7 +696,7 @@
         "hyp": " girls, ones with daughters to keep the thing in operation, though not entirely ship shape. furniture was battered, painted, trim was peeling, roofs leaked. there were dim photographs of these old girls dotted around the dining hall wearing ample woolen bathing suits and showing off their fat dimpled legs or standing arms intertwined in odd tennis outfits with baggy skirts."
     },
     {
-        "ref": "aarait, soo ai red di nyuuz, ai red a short storii, so nou aim gooing tu riid om a redit poost. an kanaat heer. hoop dats ookee. eniiweez om, soo aim a torti tuu yeer oold fiimeel an aim korentlii eet monts pregnont wit our forst chaild. mai hosbond taam, torti faiv, and ai hav bin tugedor for seven yeerz an ooveraal wii hav a greet riileeshonship. dii oonlii ishyuu is mom. a sikti tuu yeer oold wumon neemd lindo. lindo haz aalweez bin oovorbeering. di taip ov modor huu stil kaals",
+        "ref": "aarait, soo ai red di nyuuz, ai red a short stoorii, so nou aim gooing tu riid om a redit poost. an kanaat heer. hoop dats ookee. eniiweez om, soo aim a torti tuu yeer oold fiimeel an aim korentlii eet monts pregnont wit our forst chaild. mai hosbond taam, torti faiv, and ai hav bin tugedor for seven yeerz an ooveraal wii hav a greet riileeshonship. dii oonlii ishyuu is mom. a sikti tuu yeer oold wumon neemd lindo. lindo haz aalweez bin oovorbeering. di taip ov modor huu stil kaals",
         "hyp": " all right, so i read the news. i read a short story. so now i'm going to read a reddit post that i'm looking at here. hope that's okay. anyways, so i am a 32-year-old female and i'm currently eight months pregnant with our first child. my husband, tom, 35, and i have been together for seven years and overall we have a great relationship. the only issue, his mom, a 62-year-old woman named linda. linda has always been overbearing, the type of mother who still cause"
     },
     {
@@ -902,6 +902,110 @@
     {
         "ref": "yu vikeeshon doo. wii gun gyaf ageen leetor aan. gu goo leeto. <unk> heer shii no. kalin fo shoo aaf an tel mii bot shii in maiyamii. aal di taim shi hee, shii doon kaal mii. shi hardlii wan se eniiting bot mii kar, kaaz shi pleen gun, shii kal mii fo tel mii bot shii in maiyamii. an shii aloon kud goo maiyamii. ai kud goo tu maiyamii tu. an mada a fak, ai seevin op mai monii su ai kud goo tu la neks yeer on a vikeeshon.",
         "hyp": " a vacation now. we're going to get off again later on. i'm going later. there she is now. calling for show off and telling me she's in miami all the time. she says she don't call me. she hardly wants anything but because she caught a plane now, she called me to tell me she's in miami. and she don't call me miami. i could go to miami too. as a matter of fact, i saved up my money so that i could go to la next year on a vacation."
+    },
+    {
+        "ref": "an wen ai goo shii gun tek do fo shi fasnes. lemii duu mii wok ye, biifoor it ge moo leet.",
+        "hyp": " and when i go, she's going to take it off as a fast mess. let me do my work, yeah, before it gets more late."
+    },
+    {
+        "ref": "su le mi tel yo a stoorii. wan taim mii an mi padno dem dii said fo chrai a lil mischif. man an abi neer ded. sii, abii neeba a gaa di big fat goot dat alweez tai op bai hii mangoo chrii. an evriidee, mii an mi padno dem doz pas, an abii de a wach an, an abi de a se, 'bai, af abii kech da goot, wii gun mek wan nais korii'. su abi padno.",
+        "hyp": " so let me tell you a story, one time me and my partner decided to try a little mischief, man and abineye are dead. you see abineye got this big fat goat that was tied by a man with a tree and every day me and my partner just passed and we were watching him and we were saying, why? if we catch the goat, we can make one nice curry. so we plan up."
+    },
+    {
+        "ref": "su wan nait, wen abi shoo neeba gahn an sliip, an hii don lak op hii door an ting, wii gun kriip in. wii gu luus dii roop, an abi gu kyerii wee dii goot. iizii plan rait? su midnait kom, an abi a muuv sailent, laik abi a tiif in di nait. mi padno grab di roop an a start fo pul bot bai? dii goot na muuv. hii stan op stif stif, wachin wii in wii fees",
+        "hyp": " then one night, when abbie's show neighbor gone to sleep and he done lock up his door and thing, we go creep in, we go lose the rope and abbie go carry away the goat. easy plan, right? so midnight come and i be move silent like i be a thief in the night my partner grab the rope and i start to pull but by the goat now move he stand up stiff stiff watching we in we face"
+    },
+    {
+        "ref": "hii noo abi de op tu noo gud. bai abi chrai kooks him, 'kom bai, lewii goo. le abi goo'. mi padno pik op som gras an pot am oovo hii fees. ii na, shif, ii na gu noowee. su abi se abi gu pik am op, an abi gun ron. su mii an mi padno dem lif im op an dii goot start bal oud loud. meh. an dii hool plees week op. neeba lait flik aan an biifoor abi kud jrop di goot, aal yu heer, 'ayo, huu de'",
+        "hyp": " he know a bit they're up to no good when i try to cook some come by let me go let me go my partner pick up some grass and put them off my face in our shift now go away so i'll be saying i'm gonna pick them up and i'm gonna run so me my partner never lift them up and they go start ball out loud meh and the whole place wake up neighbor light flicker and before i wake up drop the goat are you here"
+    },
+    {
+        "ref": "wid me goot? bai, wii neva iivin weet fo sii iz huu. abi ron. mii slipa lef biihain an mii padna chrip oovo di fens. an abi end op in dii bush an haid til marnin. neks marnin kom, abi piik out an dii goot de a wach abi in a fees, chuuwin dii seem gras laik notin a hapin.",
+        "hyp": " my goat my we never even wait for sisu i'll be run me slipper left behind and me partner trip over the fence and i'll end up in the bush a high till morning next morning come i repeat out and it go down watch i'll be in a face chewing the same grass like nothing happened"
+    },
+    {
+        "ref": "su ai woz, ai de insaid dii, di waard. ai keem erlii. de in dii waard weetin an ai riilaiz a din bring me pen. su nou, ai had tu nou, waak aal oovo tu fain sombadii tu baaroo a pen from. ai iivenchuulii baaroo a pen. riich bak tu dii waard, di daakto iz deer luking for mii. shii kaal mii wen ai went",
+        "hyp": " so i was either inside the ward, i came early, then the ward waiting, and i realized i didn't bring my pen. so now i had to now walk all over to find somebody to borrow a pen from. i eventually borrowed a pen, reached back to the ward, the doctor is there looking for me. she called me where i went."
+    },
+    {
+        "ref": "ai din had a pen ai niidid tu goo luk for a pen. su nou shii don veks. shiiz laik arait, lewii goo, an duu a egzam ov di peeshent. su ai se ookee kuul, lewii gu laang man. wii, wii start duuwin dii egzam, di bad, bad ting woz, iz oonlii tuu v os woz deer, oonlii tuu o wii. ahnd.",
+        "hyp": " i i had a pen i needed to go look for a pen so now she don't vex and she's like all right let me go and do an exam of the patient so i said okay cool very glam man we we started doing the exam but the bad bad thing was there's only two two of us today only two of you and"
+    },
+    {
+        "ref": "di gai, hii. dii man laik hii, hiin stodii notin. su an ai din stodii dat, kaaz ai stodiiyin fo mii egzam. su ai deer laik yoo, aim jos guno wing it beesd on. biikaaz iz a nyuu rooteeshon, diz a nyuu ting wii nou starting, su aim jos deer laik yoo, aim guno duu wad ai noo. su di doktor startid wid di peeshent dat hii saa. di peeshent hii sii di dokto don start wit",
+        "hyp": " the guy he the man like he he didn't study nothing so and i didn't study that because i studied from the exam so idea like yo i'm just gonna wing it based on because it's a new rotation this is a new thing we know start inside just they're like yo i'm gonna do what i know so the doctor started with a patient that he saw the patient he see the doctor don't start with thank you."
+    },
+    {
+        "ref": "and hii, di dokto aks hii if hii toch di peeshent. shi aks him fos if hii egzamin di peeshent, hiiz laik ye hii egzamin di peeshent. iz laik oo yuu toch di peeshent? iz laik noo hii din toch dii peeshent. nou shii don veks ageen, kaaz shii laik nou, hou yu gun egzamin di peeshent yun din toch di peeshent. soo, hii don veks, <unk> shii don veks, an start grilin aal o wii. grilin wii, grilin wii, su aim deer laik",
+        "hyp": " and he, the doctor asked him if he touched the patient. she asked him first if he examined the patient. he's like, yeah, you examined the patient. and he's like, oh, you touched the patient? he's like, no, he didn't touch the patient. so now she don't vex again. she's like, no, you're going to examine the patient and you don't touch the patient. so he don't vex. remember he don't vex. she don't vex. and started grilling all of me. grilling me, grilling me. it's ideal like for it."
+    },
+    {
+        "ref": "wo yuu chraiyno see? iz mii firs dee, wii din duu ob rooteeshons sins foort yeer, wich woz laik, chrii yeerz agoo. wai yuu chatn laik dis? den shiz laik, yaal din duu foort yeer hee? huu woz yaal tiicho in foort yeer, yaal din duu foort yeer hee. su aiz laik, wedo wii did foot yeer hee o noo? wai iz, woz dis enii, wai iz dis a praablem rait nou? su shii, aabviioslii ai din see dat, bot.",
+        "hyp": " what are you trying to say it's the first day we didn't do the sub rotation since fourth year which was like three years ago why are you shouting like this then she's like y'all in the fourth year here who was your teacher in 40 i don't know 40 years i was like profane whether we did 40 here or no why is this any why is this a problem right now so she obviously i didn't say it up, but..."
+    },
+    {
+        "ref": "ai, mai fees woz beesiklii laik dat. soo, shii start taaking aksin ii kweschonz kweshonz an dii man schrogolin schrogolin bot shiin wan mii help hii. su, wel shiin wan mii help hii ontil, laik, ontil laik om. miin noo di anso, an jos biifooor shi start jogin mii. su wen ai start ansorin shi stap mii an den start jog boot o wii an se wii in stodii. su aim deer laik",
+        "hyp": " my face was basically like that so she started talking asking questions questions and the man struggling struggling but she want me help you so well she want me help me until like until like um he know the answer and just before she started jogging me so when i start answering she stopped and then i jogged both wings and went in study. so i'm there like."
+    },
+    {
+        "ref": "yuu wan hii fo taak, an den yuu gun staap mii wen ai chrai du help. teln mii doon help. an den wen yuu wan ansa, an ai ansa di kweschon yuun wan mii finish di ansa. su, evrii taim wii de taakin, wen hii de taakin shi telin wii noo yu duuwin dis raang. shii luk at mii, ai anso di kweschon ans laik, o nu nu nu nu. iz na laik da, na laik da, aiz laik, den shii gun see egzaklii wad ai jos sed, an aim laik, okee kuul.",
+        "hyp": " you want to keep the talk and then you're gonna stop me when i try to help you tell me don't help and then when you want answer and answer the question you want me finished answer so every time she we are talking but he did talking she telling no you're doing this wrong when she look at me i answer the question it's like oh no no no no it's not like that neither it's like then she's gonna say exactly what i just said and i'm like okay cool"
+    },
+    {
+        "ref": "kuul kuul. su ai jos dee, ai stan de. ai ai fool mii hahn stand op wachin shii. and, shiiz naat a bad tiicho man bot. ai doon noo wo raang wid shii tudee ain noo, wo raang wid shii tudee. bot ai jos tel shii, heey, ai oonlii hav tuu deez in dis, dis, dis ward. tudee an tumaaroo an ai out. su nou shiiz don se huuz guno stee tudee. aiz laik aim naat steeyin tudee. shiiz laik oo, yu gaato diskos it wit him. an den shii",
+        "hyp": " cool cool cool so i just did i stand there i pull me i stand up and watch sushi and she's not a bad teacher man but i don't know what i'm with you today i don't know what i'm with you today but i just tell you hey i only have two days in this this this ward today and tomorrow and i out so now she's done i said who's gonna stay today i was like i'm not staying today she's like oh you gotta discuss it with him and then she did this."
+    },
+    {
+        "ref": "laik okee kuul. su ai chat wit di man, se yow bodee. ai in wan stee tudee kaaz ai gaado stodii fo mii egzam. shii don se, wai yaal teekin su laang tu diskos huu steeyin an huu in steeyin. laik ai doon noo if di man ge somn fo duu tudee, ai noo ai gaa stodii fo mai egzam bot ai doon noo if hii gaa stodii fo hii egzam. soo, woz wot. iivenchulii dii mahn se yoo ai gun stee. see arait see les broo. ai tel shii hii gun stee shii",
+        "hyp": " like okay cool so i chat to the man i say yo buddy i want to stay today because i got a study for my exam she can say why are you all taking so long to discuss it is who's staying and who's staying like i don't know if the man gets something to do today i know i got a study for my exam but i don't know if he has study for the exam so um what's what eventually man say oh i can stay i let's go i tell she you guys did she"
+    },
+    {
+        "ref": "arait. ai deer kaaz ai had tu stee til laik twelv somn. ai deer an shii disapeer outo noowee. kaaz ai wan chat, ai wan chat wit shii an sii if ai kud get mai peepo sain. shii disapeer ai kun fain shii bak. su ai had tu liiv di ward. bo ye mahn.",
+        "hyp": " i had to stay till like 12, so i did and she disappeared out in the way because i wanted to chat with her to see if i could get my paper signed, she disappeared and i couldn't find her back, so i had to leave the ward, but yeah man."
+    },
+    {
+        "ref": "ai dun noo. su laik eniiting? eniting, literolii. da bich oglii. yuu kahn se do. okee fain. ai fed op doo. ka shii oglii. wai shii luk so. biikooz shii daid. noo shii din lukin laik do sins biifoor shii daid. kleerlii luk at hor fees. meebii shii woz sik? luk pon shi fees. laik siiriislii luk pon shi fees. wa dat? wai shii ai luk so? su houz yu dee at skuul? aim taiyord. an ai tek a",
+        "hyp": " i don't know. so like anything? anything, literally. that bitch ugly. you can't say that. if i am. i said ugly. cause she ugly. why she look so? because she died. no, she been looking like that since before she died. clearly look at her face. maybe she was sick. look punch your face. like seriously, look punch your face. what up? why she eye look so? so how was your day at school? i didn't tired. and i took a look"
+    },
+    {
+        "ref": "sliip. ai noo mai mout, ai meek shoor mai mout iz kloozd kaz, ai noo, ai in waan noobadii teek out a pikcho. da woz wai ai slept wid mai mout kloozd! an ai had mai, mai hed doun, koz ai woz laik noo. noobadii na gun, noo snap noo picho. iz nah picho? doz wo yuz se? in do do roun, roun teebl sekshon. at di bak. oo yuu wor, ye yuu wor biisaid shukiino. ye. biifoor di presenteeshonz. ",
+        "hyp": " sleep i slept with my mouth open like three times i know my mouth i made sure my mouth was closed because i felt like that i know i don't know why the body take the pictures that was why i slept with my mouth closed i don't have my head down because i was like no nobody not gonna snap no picture right it's not picture huh in the little round round table section at the back oh you were yeah, you represent shekinah. yeah, that's what you do for the presentations. yeah!"
+    },
+    {
+        "ref": "doz wai ai jrop tu sliip. an den ai heer a lil kiikiiyin. bechuu tek a picho. ii did. an ai waan di picho koz ai waan sii hou, ai waan sii hou kyuut ai luk. yuu wor jriblin. ai praaboblii woznt. yuu wor. ai woz? ye jahim. noo yuu wornt. ye, daz wai ai sed it. wii don? ai doon noo. mishel? mishel! oo mishel on di foon. kaalin dii leezo man. dii leezo man?",
+        "hyp": " this is why i dropped to sleep, but then i hear kiki and mikey take a picture. probably true. they did and i want the picture because i want to see how cute i look. you were dribbling. i probably wasn't. you were. i was? you didn't sit there. damn. no you weren't. yeah. that's why i said it. we done? i don't know. michelle. michelle. michelle on the phone. stay close. the laser man. the laser man? yes. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month. it is a month."
+    },
+    {
+        "ref": "ac. oo ac otiks. main tuu. at yu hous? shii se dii ac gaan. gaan? oo su iz fain lais yuu gaa sliip wit tunait. lazkoo. girl een non raang wid sliipin wit a fan! mai gaad, fors worl isyuuz. ai noo rait?",
+        "hyp": " ac? oh, the ac got fixed? yes, it's on the surface and somehow it's not working. at your house? mm-hmm. oh. i think i'll sleep with my 16. she said the ac gone. he took the ac. he also took your fan. how many acs? oh, so it's fan life you got that you asked me for tonight. last call. last night. girl, anyone wrong with sleep with a fan? no, but i didn't ask you about that at all. oh my god. first world issues. i know already. i need help."
+    },
+    {
+        "ref": "oo, ye... a get it a get it. ai ondostan. ug niids tu staap senin mii iimeels. onsobskraib. kan wii? widraa. daz hou yuu onsobskraib",
+        "hyp": " long jump for it to let you drop down oh yeah yeah i get you i understand sure you need to stop sending me emails unsubscribe can we withdraw that's how you unsubscribe i love you subscribe"
+    },
+    {
+        "ref": "mondee marnin ageen. ai gu tu skuul, an yu noo az a tiicho dee doon iivin pee mii fo dis kaina schres. ai gu tu skuul askn dii chiren fo dee sbas. piiryod waan kom, dii chiren na duu notin. piiryod tuu kom, dii chiren na duu notin. ai waan pik op a, a, dos boord an pelt waan diiz chiren in dee hehd koz o hou stoborn dee ar. miin noo wo fo duu wid diiz piknii noo moo. dee sba juu laang laang taim nou. an ai de hee in klas, askin dem askin dem. ai wilin",
+        "hyp": " monday morning again. i go to school. i know as a teacher, they don't even pay me properly for this kind of stress. i go to school asking the children for the sbas. period 1 come, the children not do nothing. period 2 come, the children not do nothing. i won't pick up a dust board and pelt one of these children in the head because of how stubborn they are. me know what to do with these people anymore. the sba do long long time now and are they in class asking them asking them i willing to put"
+    },
+    {
+        "ref": "mii hehd on a blaak fu dem. alredii duu do las yeer, an dee beg mi dee beg mi fo duu di sobjek, an nou dee in waan di duu wok fo di sobjek. miin noo wo fu duu noo moo. egzam in tuu monts. dii chiren in noo notin deen noo skwat. an ai gaa gu, ai gaa gu mik som mirikl, mek dem noo evrii ting? az a tiicho, ain noo if ai kud tek di schres nu moo. a gun kwit. deen gun iivin noo. deen gun noo bot dee wil sii sainz. an a gun jos waak out a de. ",
+        "hyp": " me head on a block for them i already do the last year and they begged me they begged me to do the subject and now they ain't wanted to work for the subject me know what to do no more examine two months the children know nothing they ain't no squat and i gotta go i gotta go make some miracle make them know everything as a teacher i know if i could take this stress no more i gonna quit they don't even know they ain't nobody will see signs and i gonna just walk out today thank you."
+    },
+    {
+        "ref": "noo monii kud pee mii iinof fo diil wid dis kaina schre bai wo? ai go ug komin op, mi tiisis komin op, aal mii praajek juu an diiz chiren de pon won said givin mii hel. ai, ai, ai jos waan liivv.",
+        "hyp": " money could pay me enough to deal with this kind of stress by war. i got ug coming up, me thesis coming up, all me projects due, and these two end up on one side giving me hell. i just want to leave."
+    },
+    {
+        "ref": "bai, le mi tel yu. dis marnin a get op fo jrink lil tii, bot az suun az mi pud dii kop tu mi mout, briiz bloo an naak wee dii hool ting. iz laik dii yuunivors se na man. tudee na yu dee. su mii jos sai an ge bak in mii hamok. bot heer dis nou. mii kyat diisaid fi jomp pon mii belii, laik hii pee rent. naak aal mi foon out mi hahn an di ting lan skriin doun. a se ja man",
+        "hyp": " bye, let me tell you. this morning i get up for a drink of tea, but as soon as i put the cup to my mouth, the breeze blow and knock away the whole thing. it's like the universe say, nah man, today na your day. so i just sigh and get back in my hammock. but here it is now, i can't decide to jump on my belly, like he pay rent. knock all my phone out my hand and the thing will land screamed down. i said german"
+    },
+    {
+        "ref": "wo moor ku goo raang? bo ges wo? jos az mi get op fo pik it op, mi too kech di ej a di cheer an a neerlii flai wee laik plee lef mii. waan big tombl mi rool pon di groun laik kisava bal. neks ting yo noo, mii neeba piip oova di fens an a hala, bai, yu praktisin fo ulimpiks or wa? mii se na man, mi jos faitin fo mi laif tudee. soo a jos get op, dost aaf, an tel miself tii or noo ",
+        "hyp": " what more could go wrong but guess what just as me get up for pick it up me took edgy edge of the chair and i nearly fly away like plane left me one go tumble my rope on the ground like cassava ball next thing you know me neighbor people for defense and a holler bye you're practicing for olympics or what me send a man me just fighting for my life today so i just get up dosa and tell myself tea or no tea"
+    },
+    {
+        "ref": "tii, tudee don win aalredii.",
+        "hyp": " today don't win already"
     },
     {
         "ref": "yu main ekspleenin hou piipl getin fo taip in dii anounsment?",
